@@ -1,0 +1,45 @@
+body{
+     background-color: gray;
+     background-repeat: repeat;
+     font-size: 15px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {  
+     margin-top: 5%;
+     margin-bottom: 7%;
+     width: 60%;
+     background-image: url(../img/movie.jpg);
+     background-size: contain;
+ }
+p, h1 {
+     color: white;
+}
+
+ #answerResult{
+      font-size: large;
+      font-weight: 900;
+      width: 300px;
+ }
+
+ .section{
+     margin-top: 50px;
+     height: 350px;
+}
+
+#startButton{
+     margin-left: 20px;
+}
+
+#questionContainer{
+     margin-left: 50px;
+}
+
+#finalscoreContainer{
+     margin-left: 50px;
+}
+
+#highscoreContainer{
+     margin-left: 50px;
+}
+
